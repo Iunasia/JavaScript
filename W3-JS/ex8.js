@@ -5,4 +5,3 @@ function printUser({ name, age }) {
 const user = { name: 'Sophea', age: 20 };
 
 printUser(user);
-0

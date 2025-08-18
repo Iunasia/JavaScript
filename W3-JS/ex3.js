@@ -10,3 +10,4 @@ newObj = {...a, ...b};
 
 console.log(NewArray);
 console.log(newObj);
+  
